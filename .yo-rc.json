@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fr.ippon.deoliveira.blackbelt"
+    },
+    "jhipsterVersion": "5.7.1",
+    "applicationType": "microservice",
+    "baseName": "jhipsterBlackbelt",
+    "packageName": "fr.ippon.deoliveira.blackbelt",
+    "packageFolder": "fr/ippon/deoliveira/blackbelt",
+    "serverPort": "8095",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTM0ODVkMmI1OWI3NmQ3ZWQ1Njc0MWZjMTYwZDg2ZmU5N2M5Mzg3NGMyMTg1ZGMwYjVkMjgzZGI5OWVlMDA1YjdmNWFjNTQwZmU1ODBmMDFmMzg5YzFjNDUwZGM4NzczNWY0N2ExNzhhNTQyMjdhZGE4NTNmZWM2YjdhY2EzOGE=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
